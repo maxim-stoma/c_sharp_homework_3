@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/bin/Debug/net6.0/task002_palindrome
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/bin/Debug/net6.0/task002_palindrome.deps.json
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/bin/Debug/net6.0/task002_palindrome.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/bin/Debug/net6.0/task002_palindrome.dll
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/bin/Debug/net6.0/task002_palindrome.pdb
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/obj/Debug/net6.0/task002_palindrome.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/obj/Debug/net6.0/task002_palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/obj/Debug/net6.0/task002_palindrome.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/obj/Debug/net6.0/task002_palindrome.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/obj/Debug/net6.0/task002_palindrome.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/obj/Debug/net6.0/task002_palindrome.dll
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/obj/Debug/net6.0/refint/task002_palindrome.dll
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/obj/Debug/net6.0/task002_palindrome.pdb
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/obj/Debug/net6.0/task002_palindrome.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/practice/1. practice/task002_palindrome/obj/Debug/net6.0/ref/task002_palindrome.dll
